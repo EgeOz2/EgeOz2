@@ -1,4 +1,4 @@
-- Hi I'm Ege
+Ege
 - Just a normal high schooler trying to learn coding...
 
 <!---
