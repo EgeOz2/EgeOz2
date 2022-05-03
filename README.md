@@ -1,5 +1,5 @@
 Ege
-- Just a normal high schooler trying to learn coding...
+- There won't be anyhting special here. Some basic stuff.
 
 <!---
 EgeOz2/EgeOz2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
